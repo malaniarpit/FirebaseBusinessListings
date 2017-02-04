@@ -8,11 +8,11 @@ import { AppComponent } from './app.component';
 
 // Must export the config
 export const firebaseConfig = {
-    apiKey: "AIzaSyBpPRKzWUnlA6dV7BAtlk8uQLKZaNQTYKU",
-    authDomain: "businesscontracts-c2002.firebaseapp.com",
-    databaseURL: "https://businesscontracts-c2002.firebaseio.com",
-    storageBucket: "businesscontracts-c2002.appspot.com",
-    messagingSenderId: "175729266929"
+    apiKey: "AIzaSyBwtPpV_xS_jsEC-GmIoxqaWhC0CkojhBo",
+    authDomain: "businesscontracts-287a5.firebaseapp.com",
+    databaseURL: "https://businesscontracts-287a5.firebaseio.com",
+    storageBucket: "businesscontracts-287a5.appspot.com",
+    messagingSenderId: "118235912637"
   };
 
 @NgModule({
